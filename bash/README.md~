@@ -1,0 +1,5 @@
+Usage of utilities
+
+# Add
+
+- for i in *.png;do mv $i `./zeropad.sh $i`; done
